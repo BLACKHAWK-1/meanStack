@@ -15,9 +15,9 @@ mv $workingDirectory/server.js $workingDirectory/Books/server.js
 
 mv $workingDirectory/routes.js $workingDirectory/Books/apps/routes.js
 
-mv $workingDirectory/script.js workingDirectory/Books/public/script.js
+mv $workingDirectory/script.js $workingDirectory/Books/public/script.js
 
-mv $workingDirectory/index.html workingDirectory/Books/public/index.html
+mv $workingDirectory/index.html $workingDirectory/Books/public/index.html
 
 cd $workingDirectory/Books
 
